@@ -1,0 +1,28 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "uni-app"
+      }
+    },
+    {
+      "path": "pages/demo/http-demo",
+      "style": {
+        "navigationBarTitleText": "HTTP请求示例"
+      }
+    },
+    {
+      "path": "pages/demo/reactive-demo",
+      "style": {
+        "navigationBarTitleText": "Vue3响应式演示"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}
